@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="TeamBoard icon">
+  <rect width="512" height="512" rx="96" fill="#334FC0"/>
+  <rect x="72" y="96" width="96" height="320" rx="20" fill="#F6F7FB"/>
+  <rect x="208" y="96" width="96" height="220" rx="20" fill="#D19000"/>
+  <rect x="344" y="96" width="96" height="276" rx="20" fill="#86EFAC"/>
+</svg>
