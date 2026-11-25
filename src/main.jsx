@@ -147,7 +147,7 @@ function App() {
         }}
       >
         <span>TeamBoard · A Kanban-based Project Management Web App for Student Teams (MSIS207)</span>
-        <span>React + Express RESTful API v1 + Sequelize (MySQL/SQLite) + Socket.IO + PWA</span>
+        <span>React + Express RESTful API v1 + MongoDB + Socket.IO + PWA</span>
       </footer>
     </>
   );
